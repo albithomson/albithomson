@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albithomson&label=Profile%20views&color=0e75b6&style=flat" alt="albithomson" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albithomson" alt="albithomson" /></a> </p>
-
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/albithomson](https://github.com/albithomson)
